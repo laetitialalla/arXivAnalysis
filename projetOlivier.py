@@ -33,6 +33,7 @@ class Article():
         return Article(title, authors, abstract, url)
 
 
+# TO Do : corriger bug 
 
 # load txt file in "mail"
 with open(r'C:\Users\laeti\Desktop\arXiv.txt') as f:
